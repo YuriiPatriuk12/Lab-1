@@ -1,0 +1,5 @@
+{{{word}}}
+{{test1 test2}
+check
+{lorem ipsum}
+{}{{line1 l2 l3 l4}
